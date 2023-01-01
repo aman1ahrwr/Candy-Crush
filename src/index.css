@@ -1,0 +1,24 @@
+.app{
+  display: flex;
+  padding: 5.6rem 20rem;
+  border: 2px solid grey;
+  background-color: antiquewhite;
+}
+
+.game{
+  display: flex;
+  flex-wrap: wrap;
+  width: 560px;
+  height: 560px;
+}
+
+.game img{
+  width: 70px;
+  height: 70px;
+}
+
+.score{
+  font-size:xx-large;
+  font-weight: bolder;
+  padding: 13rem 0rem 13rem 13rem;
+}
